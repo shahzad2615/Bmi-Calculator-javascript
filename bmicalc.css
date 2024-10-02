@@ -1,0 +1,36 @@
+body{
+    background-color: gray;
+}
+nav{
+    border: 2px solid gray;
+    background-color: aliceblue;
+    padding: 10px;
+}
+nav a{
+    border: 1px solid gray;
+    color: black;
+    margin: 1px;
+   
+    background-color:rgb(100, 185, 21);
+    
+
+}
+nav{
+
+}
+.sajju{
+    text-align:end;
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+button:hover{
+    background-color: rgb(9, 255, 0);
+    transition: 5s;
+    cursor: pointer;
+
+/* margin-left: 10px; */
+transition: background-color 1s ease;
+background-color: red;
+}
+
